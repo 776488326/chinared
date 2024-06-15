@@ -1,19 +1,19 @@
 export const navItems = [
-  { name: "About", link: "#about" },
-  { name: "Projects", link: "#projects" },
-  { name: "Testimonials", link: "#testimonials" },
-  { name: "Contact", link: "#contact" },
+  { name: "百年党史", link: "#about" },
+  { name: "千年中国", link: "#projects" },
+  { name: "爱国爱党", link: "#testimonials" },
+  { name: "接续奋进", link: "#contact" },
 ];
 
 export const gridItems = [
   {
     id: 1,
-    title: "I prioritize client collaboration, fostering open communication ",
-    description: "",
-    className: "lg:col-span-3 md:col-span-6 md:row-span-4 lg:min-h-[60vh]",
+    title: "中国共产党的百年历程 ",
+    description: "中国共产党是一个具有光荣历史和伟大成就的政党，是中国特色社会主义事业的坚强领导核心",
+    className: "col-span-6 row-span-4 min-h-[60vh]",
     imgClassName: "w-full h-full",
     titleClassName: "justify-end",
-    img: "/b1.svg",
+    img: "/gongchandang.jpg",
     spareImg: "",
   },
   {
